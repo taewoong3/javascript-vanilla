@@ -9,6 +9,7 @@
 #greeting {
   font-size: 30px;
   margin-bottom: 30px;
+  color: white;
 }
 
 #login-form input {
@@ -16,8 +17,9 @@
   font-size: 30px;
   padding: 20px 0;
   background-color: inherit;
+  color: white;
 }
 
 #login-form input::placeholder {
-  color: black;
+  color: white;
 }
