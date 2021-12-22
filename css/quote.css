@@ -1,0 +1,11 @@
+#quote {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: flex-end;
+  align-items: flex-start;
+  font-weight: bold;
+  color: white;
+  position: fixed;
+  z-index: 1;
+}
